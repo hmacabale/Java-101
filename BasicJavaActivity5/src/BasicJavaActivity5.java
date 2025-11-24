@@ -12,5 +12,5 @@ public class BasicJavaActivity5 {
         System.out.println("Sum = " + sum);
 
     } // end of main method
-    
+
 } // end of BasicJavaActivity5 class
